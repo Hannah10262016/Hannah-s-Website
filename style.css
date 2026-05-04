@@ -1,0 +1,93 @@
+/* https://coolors.co/palette/cdb4db-ffc8dd-ffafcc-bde0fe-a2d2ff  */
+
+
+body{
+    text-align: center;
+    background-color: #FFC8DD;
+}
+h1{
+    color:#ff74a7;
+    font-size:50px;
+    text-shadow: white 4px 4px 4px;
+  
+    font-family: "Comic Relief", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+p{
+    color :white;
+    font-size:19px;
+    font-family: "Comic Relief", system-ui;
+
+    font-style: normal;
+}
+
+
+
+button{
+    padding:10px;
+    background-color: #ff74a7;
+    width: 170px;
+    border-radius: 10px;
+    border-color: white;
+    color:white;
+    font-size: 18px;
+    font-family:"Comic Relief", system-ui;
+}
+
+#img1{
+    width: 600px;
+}
+#img2{
+    width: 600px;
+}
+#img3{
+    width: 600px;
+}
+#img4{
+    width:600px;
+}
+#line111{
+   font-family:"Comic Relief", system-ui;
+   color:white;
+   text-decoration: underline;
+}
+#line222{
+    font-family: "Comic Relief", system-ui;
+    color:white;
+    padding: 50px;
+}
+#line333{
+    font-family: "Comic Relief", system-ui;
+    color:white;
+    text-decoration: underline;
+}
+#line444{
+    font-family:"Comic Relief", system-ui ;
+    color: white;
+    padding: 50px;
+}
+
+#game img{
+    width: 300px;
+    border-radius: 17px; 
+    height: 300px;
+    padding-top: 30px;  
+}
+
+#game h3{
+    font-family:"Comic Relief", system-ui;
+    color: purple;
+    text-decoration: underline;
+}   
+
+#games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
